@@ -1,4 +1,4 @@
-# 
+# Gratuito vLLM preajustes. Con indexación de datos y ingeniería de prompts — optimizado para el máximo rendimiento y eficiencia.
 
 
 
